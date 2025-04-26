@@ -3,7 +3,7 @@ import threading
 from detector import ForgottenObjectDetector
 
 app = Flask(__name__)
-CONFIG_PATH = 'config.json'
+CONFIG_PATH = 'config.json1'
 
 detector = None
 
